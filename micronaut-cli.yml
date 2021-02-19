@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: org.fbcj
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [app-name, assertj, cache-ehcache, elasticsearch, graalvm, gradle, http-client, java, java-application, jdbc-hikari, junit, liquibase, logback, lombok, mysql, netflix-hystrix, netty-server, openapi, readme, security-annotations, security-oauth2, shade, testcontainers, yaml]
